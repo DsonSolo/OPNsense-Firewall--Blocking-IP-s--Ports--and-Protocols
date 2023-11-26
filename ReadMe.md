@@ -1,4 +1,4 @@
-**OPNsense Firewall: Blocking IP's, Ports, and Protocols**
+# OPNsense Firewall: Blocking IP's, Ports, and Protocols**
 
 In this project, I explored the OPNsense firewall, a tool crucial for
 network security. The focus was on understanding and implementing
