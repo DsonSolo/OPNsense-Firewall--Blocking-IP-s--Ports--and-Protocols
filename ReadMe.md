@@ -34,7 +34,7 @@ dynamic view of the firewall's actions, offering valuable feedback.
 Additionally, the Overview section provided a graphical representation
 of firewall activity.
 
-Part 2 - Configure Aliases
+**Part 2 - Configure Aliases**
 
 In the second part, I focused on configuring aliases, an essential
 aspect of firewall management. Aliases allow for the grouping of IP
@@ -71,13 +71,13 @@ of defining a placeholder for various network entities.
 
 We will create an Alias for the firewall by entering the following:
 
-Name: Firewall_Def_Gateway.
+**Name: Firewall_Def_Gateway.**
 
-Type: Host(s).
+**Type: Host(s).**
 
-Content: 192.168.2.1
+**Content: 192.168.2.1**
 
-Description: OPNsense Default Gateway.
+**Description: OPNsense Default Gateway.**
 
 Click Save. I created an Alias named "Firewall_Def_Gateway" representing
 the OPNsense Default Gateway, specifying its type, content, and
@@ -123,13 +123,13 @@ Before creating the Alias for PC1, I verified its IP address by running
 <img src="./media/image9.png"
 style="width:4.80634in;height:3.82813in" />
 
-Name: AdminPC
+**Name: AdminPC**
 
-Type: Host(s)
+**Type: Host(s)**
 
-Content: 192.168.2.11
+**Content: 192.168.2.11**
 
-Description: PC1 (Admin)
+**Description: PC1 (Admin)**
 
 <img src="./media/image10.png" style="width:6.5in;height:2.41667in" />
 
@@ -226,7 +226,7 @@ style="width:4.21354in;height:1.87366in" />
 
 <img src="./media/image18.png" style="width:4.34375in;height:1.375in" />
 
-<img src="./media/image19.emf" style="width:6.5in;height:4.11806in" />
+<img src="./media/image19(1).png" style="width:6.5in;height:4.11806in" />
 
 **Figure: A verification window showing PC2 can access the internet on
 the browser**
